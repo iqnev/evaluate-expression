@@ -74,7 +74,7 @@
 							<archive>
 								<manifest>
 									<mainClass>
-										com.iqnev.algorithm.ExpressionProcessingAppLauncher
+										com.iqnev.expression.ExpressionProcessingAppLauncher
 									</mainClass>
 								</manifest>
 							</archive>
