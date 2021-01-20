@@ -18,7 +18,7 @@ The application prints the result in double precision. For example the output of
 
 ## How does it work?
 
-The first approach in the first approach I use two stacks: Double-stack algorithm.
+In the first approach I use two stacks: Double-stack algorithm.
 
 **Operand:** then push onto the operand stack.
 
