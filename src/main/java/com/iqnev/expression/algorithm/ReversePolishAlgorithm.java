@@ -63,7 +63,7 @@ public class ReversePolishAlgorithm implements Strategy {
 		return stack.pop().intValue();
 	}
 
-	public static boolean isOperator(String str) {
+	public boolean isOperator(String str) {
 		if (str.length() != 1)
 			return false;
 		char c = str.charAt(0);
